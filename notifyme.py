@@ -11,6 +11,8 @@ from PIL import Image, ImageDraw
 from win10toast import ToastNotifier
 import pygame
 
+# First change
+
 # Initialize the pygame mixer
 pygame.mixer.init()
 
